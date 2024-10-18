@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+.navbar{
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+   
+}
+
+
+
+.links{
+    
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    color: white;
+
+}
+
